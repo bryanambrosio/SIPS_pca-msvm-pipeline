@@ -2,8 +2,7 @@
 
 **Autor:** Bryan Ambrósio  
 **Data:** 2025-09-04  
-**Versão:** 0.1.0  
-**Licença:** MIT (sugerida)
+**Versão:** 0.1.0
 
 Pipeline reproduzível para **EDA → PCA(2D) → MSVM linear por pares adjacentes** aplicado a *Vang* (ângulos de tensão) em quatro instantes (0.18s, 0.25s, 0.30s, 0.35s) e dois pontos de medição (XES e RioVTEST). 
 Um **orquestrador `main.py`** executa os três scripts na ordem, aguardando 1s entre eles e **pausando no final** quando aberto por duplo-clique no Windows.

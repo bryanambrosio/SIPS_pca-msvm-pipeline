@@ -22,7 +22,6 @@ Um **orquestrador `main.py`** executa os três scripts na ordem, aguardando 1s e
 - [Orquestrador — `main.py`](#orquestrador--mainpy)
 - [Saídas (onde os arquivos são gravados)](#saídas-onde-os-arquivos-são-gravados)
 - [Reprodutibilidade & Dicas](#reprodutibilidade--dicas)
-- [Solução de Problemas](#solução-de-problemas)
 
 ---
 

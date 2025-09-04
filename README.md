@@ -9,6 +9,13 @@ Um **orquestrador `main.py`** executa os três scripts na ordem, aguardando 1s e
 
 ---
 
+# Agredecimentos:
+
+PPGEEL - UFSC
+INESC P&D
+
+---
+
 # Estrutura de diretórios do Projeto
 
 ```text

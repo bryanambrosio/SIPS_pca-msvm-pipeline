@@ -1,0 +1,13 @@
+# Core
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+
+# Excel support (for .xlsx input)
+openpyxl
+
+# Parquet support (optional; remove if you don't need Parquet)
+pyarrow
+fastparquet
